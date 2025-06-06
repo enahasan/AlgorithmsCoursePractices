@@ -5,9 +5,14 @@ This repo contains my C++ implementations of key algorithms from my course — f
 ## 📘 Topics
 
 - Matrix Chain Multiplication  
+- Matrix Multiplication
 - Longest Common Subsequence (LCS)  
 - 0/1 Knapsack  
 - Fibonacci (Recursive & DP)  
+- Best First Search
+- BFS (Braeadth First Search)
+- DFS (Depth First Search)
+- LCS (Longest Common Seqence)
 - More DP patterns coming...
 
 ## ⚙️ Language
