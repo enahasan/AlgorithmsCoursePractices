@@ -4,7 +4,7 @@ using namespace std;
 
 const int MAX_V = 20;
 const int MAX_EDGES = 10;
-
+// This code implements a Best-First Search algorithm using a priority queue.
 
 struct Edge {
     int to;
