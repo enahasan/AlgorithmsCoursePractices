@@ -41,6 +41,7 @@ int main() {
             w = w - wt[i];           // Reduce the remaining capacity
         }
     }
+    // If no items are included, this will not print anything
     cout << endl;
 
     return 0;
