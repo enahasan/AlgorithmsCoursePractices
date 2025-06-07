@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//implements the Matrix Chain Multiplication problem using dynamic programming.
+//implements the Matrix Chain Multiplication problem using dynamic programming
 int main()
 {
     int n = 5;
