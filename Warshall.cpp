@@ -1,8 +1,8 @@
 #include <iostream> 
 using namespace std;
-
-const int nV = 4;   
-const int INF = 999; 
+// This code implements the Floyd-Warshall algorithm to find the shortest paths between all pairs of vertices in a weighted graph
+const int nV = 4;   //
+const int INF = 999;  //
 
 
 void printMatrix(int matrix[][nV]);

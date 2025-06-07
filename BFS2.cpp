@@ -1,9 +1,9 @@
 #include <iostream>
 #include <queue>
 using namespace std;
-
+// Implements the Breadth First Search (BFS) algorithm for a graph represented as an adjacency matrix
 class Solution {
-public:
+public:// Function to return Breadth First Traversal of given graph.
     
     void bfsOfGraph(int V, int adj[][100], int adjSize[], int bfs[], int &bfsIndex) {
         int vis[1000] = {0};  

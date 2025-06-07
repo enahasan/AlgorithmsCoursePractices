@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Implements the Longest Common Subsequence (LCS) problem using dynamic programming
 int main() {
     string A = "bd";
     string B = "abcd";

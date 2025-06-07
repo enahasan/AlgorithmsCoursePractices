@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue>
 using namespace std;
-
+// Implements the Breadth First Search (BFS) algorithm for a graph represented as an adjacency list
 class Solution {
 public:
     // Function to return Breadth First Traversal of given graph.

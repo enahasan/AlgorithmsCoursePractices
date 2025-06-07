@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// This code implements the Fibonacci sequence using recursion
 
 int Fib(int n){
     if (n <= 1){

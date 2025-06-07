@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+// This code implements the Depth First Search (DFS) algorithm for a graph represented as an adjacency list
 const int MAX_V = 100;                  
 const int MAX_EDGES_PER_NODE = 10;      
 

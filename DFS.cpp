@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+// This code implements the Depth First Search (DFS) algorithm for a graph represented as an adjacency list
 using namespace std;
 
 void dfsRec(const vector<vector<int> >& adj, vector<bool>& visited, int s, vector<int>& res) {

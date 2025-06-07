@@ -7,7 +7,7 @@ int main()
     int P[] = {5, 9, 8, 6, 5}; 
     int m[5][5] = {0};
     int s[5][5] = {0};
-
+// P[i] represents the dimensions of the matrices
     int j, min, q;
 
     for (int d = 1; d < n - 1; d++) 

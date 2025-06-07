@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// This code implements matrix multiplication for two matrices A and B
 int main() {
     int r1, c1, r2, c2;
 
