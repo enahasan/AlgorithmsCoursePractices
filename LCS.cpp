@@ -17,7 +17,7 @@ int main() {
     for (int j = 0; j <= m; ++j)
         LCS[0][j] = 0; 
 
-  
+  // Fill the LCS table using dynamic programming
     for (int i = 1; i <= n; ++i) {
         for (int j = 1; j <= m; ++j) {
             if (A[i - 1] == B[j - 1]) {
