@@ -11,7 +11,7 @@ int main() {
 
     int LCS[n + 1][m + 1]; 
 
- 
+ // Initialize the LCS table
     for (int i = 0; i <= n; ++i)
         LCS[i][0] = 0; 
     for (int j = 0; j <= m; ++j)
