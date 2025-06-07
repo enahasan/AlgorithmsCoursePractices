@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int r1, c1, r2, c2;
 
-   // Input dimensions for matrices A and B
+
     cout << "Enter rows and columns of Matrix A: ";
     cin >> r1 >> c1;
     cout << "Enter rows and columns of Matrix B: ";
