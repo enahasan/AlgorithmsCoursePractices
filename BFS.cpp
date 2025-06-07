@@ -10,7 +10,7 @@ public:// Function to return Breadth First Traversal of given graph.
         vis[0] = 1;
 
         queue<int> q;
-        q.push(0);
+        q.push(0); // Start BFS from the first node (0)
 
         while (!q.empty()) {
             int node = q.front();
