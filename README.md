@@ -12,7 +12,7 @@ This repo contains my C++ implementations of key algorithms from my course — f
 - Best First Search
 - BFS (Braeadth First Search)
 - DFS (Depth First Search)
-- LCS (Longest Common Seqence)
+- LCS (Longest Common Subsequence)
 - More DP patterns coming...
 
 ## ⚙️ Language
