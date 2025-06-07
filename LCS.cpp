@@ -7,7 +7,9 @@ int main() {
 
     int n = A.size();
     int m = B.size();
-
+// Create a 2D array to store lengths of longest common subsequence
+// Initialize the array with dimensions (n+1) x (m+1)
+    // where n is the length of string A and m is the length of string B
     int LCS[n + 1][m + 1]; 
 
  
