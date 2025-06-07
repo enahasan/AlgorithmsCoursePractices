@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // This code implements the Fibonacci sequence using recursion
-
+// The Fibonacci sequence is defined as follows:
 int Fib(int n){
     if (n <= 1){
         return n;
