@@ -13,7 +13,7 @@ struct Edge {
 
 Edge adj[MAX_V][MAX_EDGES];
 int adjSize[MAX_V] = {0};
-
+// Function to add an edge to the adjacency list
 
 void addEdge(int u, int v, int cost) {
     adj[u][adjSize[u]].to = v;
